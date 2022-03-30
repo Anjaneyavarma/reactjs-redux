@@ -1,0 +1,6 @@
+export const actionTypes = {
+    SET_POSTS : "SET_POSTS",
+    SELECTED_POSTS : "SELECTED_POSTS",
+    REMOVE_SELECTED_POSTS : "REMOVE_SELECTED_POSTS",
+    ADD_POST: "ADD_POST"
+}
